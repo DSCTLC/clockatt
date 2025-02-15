@@ -1,0 +1,1 @@
+pythonw.exe your_script.py

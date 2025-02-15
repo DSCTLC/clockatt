@@ -1,0 +1,38 @@
+[
+    {
+        "name": "XOLISILE",
+        "surname": "ZWANE",
+        "pin": "XZ01",
+        "role": "Cashier",
+        "photos": [
+            "/XOLISILE_ZWANE/"
+        ]
+    },
+    {
+        "name": "JOSHNA",
+        "surname": "JAMNADAS",
+        "pin": "123",
+        "role": "Cashier",
+        "photos": [
+            "/JOSHNA_JAMNADAS/"
+        ]
+    },
+    {
+        "name": "DINIKA",
+        "surname": "RAMROOP",
+        "pin": "4579",
+        "role": "Other",
+        "photos": [
+            "/DINIKA_RAMROOP/"
+        ]
+    },
+    {
+        "name": "FAYZAAN",
+        "surname": "HAI",
+        "pin": "786",
+        "role": "Other",
+        "photos": [
+            "/FAYZAAN_HAI/"
+        ]
+    }
+]
